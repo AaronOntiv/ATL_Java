@@ -1,0 +1,26 @@
+{
+  "nombre_academia": "Next Lang",
+  "direccion": "calle principal 123, Villa Carlos Paz",
+  "cursos": [
+    {
+      "nombre_curso": "Inglés básico",
+      "descripcion": "Curso introductorio para principiantes.",
+      "duracion_semanas": 4,
+      "precio_dolares": 100
+    },
+    {
+      "nombre_curso": "Inglés Avanzado",
+      "descripcion": "Curso para estudiantes avanzados.",
+      "duracion_semanas": 20,
+      "precio_dolares": 400
+    },
+    {
+      "nombre_curso": "Italiano básico",
+      "descripcion": "Curso introductorio para principiantes.",
+      "duracion_semanas": 5,
+      "precio_dolares": 120
+    }
+  ],
+  "telefonos_contacto": ["156734756", "154456234"],
+  "informacion_adicional": "Los teléfonos están disponibles para proporcionar más información sobre los cursos y resolver cualquier consulta que los interesados puedan tener."
+}
